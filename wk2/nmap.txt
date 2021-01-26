@@ -1,0 +1,59 @@
+ nmap youtube.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-25 18:37 UTC
+Nmap scan report for youtube.com (172.217.164.238)
+Host is up (0.0018s latency).
+Other addresses for youtube.com (not scanned): 2607:f8b0:400b:801::200e
+rDNS record for 172.217.164.238: yyz12s05-in-f14.1e100.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 15.99 seconds
+
+nmap -p 8080 facebook.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-25 18:42 UTC
+Nmap scan report for facebook.com (31.13.80.36)
+Host is up (0.0014s latency).
+Other addresses for facebook.com (not scanned): 2a03:2880:f10e:83:face:b00c:0:25de
+rDNS record for 31.13.80.36: edge-star-mini-shv-01-yyz1.facebook.com
+
+PORT     STATE    SERVICE
+8080/tcp filtered http-proxy
+
+Nmap done: 1 IP address (1 host up) scanned in 11.31 seconds
+
+nmap -p 8080-8090 roblox.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-25 18:43 UTC
+Nmap scan report for roblox.com (128.116.112.44)
+Host is up (0.013s latency).
+
+PORT     STATE    SERVICE
+8080/tcp filtered http-proxy
+8081/tcp filtered blackice-icecap
+8082/tcp filtered blackice-alerts
+8083/tcp filtered us-srv
+8084/tcp filtered unknown
+8085/tcp filtered unknown
+8086/tcp filtered d-s-n
+8087/tcp filtered simplifymedia
+8088/tcp filtered radan-http
+8089/tcp filtered unknown
+8090/tcp filtered opsmessaging
+
+Nmap done: 1 IP address (1 host up) scanned in 12.54 seconds
+
+
+nmap -F amazon.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-25 18:45 UTC
+Nmap scan report for amazon.com (205.251.242.103)
+Host is up (0.023s latency).
+Other addresses for amazon.com (not scanned): 54.239.28.85 176.32.103.205
+rDNS record for 205.251.242.103: s3-console-us-standard.console.aws.amazon.com
+Not shown: 98 closed ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 11.25 seconds
+

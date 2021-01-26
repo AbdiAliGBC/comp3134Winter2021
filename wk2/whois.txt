@@ -1,0 +1,181 @@
+1. SHOPIFY
+Domain Name: shopify.com
+Registry Domain ID: 145873763_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2020-04-24T13:07:18-0700
+Creation Date: 2005-03-10T21:18:03-0800
+Registrar Registration Expiration Date: 2023-03-10T21:18:03-0800
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Shopify Inc.
+Registrant State/Province: ON
+Registrant Country: CA
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/shopify.com
+Admin Organization: Shopify Inc.
+Admin State/Province: ON
+Admin Country: CA
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/shopify.com
+Tech Organization: Shopify Inc.
+Tech State/Province: ON
+Tech Country: CA
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/shopify.com
+Name Server: ns3.dnsimple.com
+Name Server: dns3.p06.nsone.net
+Name Server: ns1.dnsimple.com
+Name Server: ns4.dnsimple.com
+Name Server: dns4.p06.nsone.net
+Name Server: dns2.p06.nsone.net
+Name Server: dns1.p06.nsone.net
+Name Server: ns2.dnsimple.com
+DNSSEC: unsigned
+2. YOUTUBE
+Domain Name: youtube.com
+Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2021-01-14T02:36:28-0800
+Creation Date: 2005-02-14T21:13:12-0800
+Registrar Registration Expiration Date: 2022-02-14T00:00:00-0800
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Name Server: ns1.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+Name Server: ns2.google.com
+DNSSEC: unsigned
+3. roblox.com
+Domain Name: roblox.com
+Registry Domain ID: 110864800_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2020-12-29T02:37:18-0800
+Creation Date: 2004-01-29T16:08:43-0800
+Registrar Registration Expiration Date: 2023-01-29T00:00:00-0800
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Roblox Corporation
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/roblox.com
+Admin Organization: Roblox Corporation
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/roblox.com
+Tech Organization: Roblox Corporation
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/roblox.com
+Name Server: dns3.p06.nsone.net
+Name Server: dns1.p06.nsone.net
+Name Server: dns4.p06.nsone.net
+Name Server: ns01.rbxinfra.net
+Name Server: dns2.p06.nsone.net
+Name Server: ns04.rbxinfra.net
+Name Server: ns03.rbxinfra.net
+Name Server: ns02.rbxinfra.net
+4. facebook.com
+Registrant Contact Information:
+NameDomain Admin
+OrganizationFacebook, Inc.
+Address1601 Willow Rd
+CityMenlo Park
+State / ProvinceCA
+Postal Code94025
+CountryUS
+Phone+1.6505434800
+Fax+1.6505434800
+Email
+
+Administrative Contact Information:
+NameDomain Admin
+OrganizationFacebook, Inc.
+Address1601 Willow Rd
+CityMenlo Park
+State / ProvinceCA
+Postal Code94025
+CountryUS
+Phone+1.6505434800
+Fax+1.6505434800
+Email
+
+Technical Contact Information:
+NameDomain Admin
+OrganizationFacebook, Inc.
+Address1601 Willow Rd
+CityMenlo Park
+State / ProvinceCA
+Postal Code94025
+CountryUS
+Phone+1.6505434800
+Fax+1.6505434800
+Email
+5. georgebrown.com
+Registrant Contact Information:
+NamePERFECT PRIVACY, LLC
+Organization
+Address5335 Gate Parkway care of Network Solutions PO Box 459
+CityJacksonville
+State / ProvinceFL
+Postal Code32256
+CountryUS
+Phone+1.5707088780
+Email
+
+Administrative Contact Information:
+NamePERFECT PRIVACY, LLC
+Organization
+Address5335 Gate Parkway care of Network Solutions PO Box 459
+CityJacksonville
+State / ProvinceFL
+Postal Code32256
+CountryUS
+Phone+1.5707088780
+Email
+
+Technical Contact Information:
+NamePERFECT PRIVACY, LLC
+Organization
+Address5335 Gate Parkway care of Network Solutions PO Box 459
+CityJacksonville
+State / ProvinceFL
+Postal Code32256
+CountryUS
+Phone+1.5707088780
+Email

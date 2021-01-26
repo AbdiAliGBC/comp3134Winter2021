@@ -1,0 +1,7 @@
+traceroute youtube.com  
+
+1     5 ms     2 ms     2 ms  mynetwork [192.168.2.1]
+  2    19 ms    12 ms    12 ms  10.11.3.225
+  3     *        *        *     Request timed out.
+  4    17 ms    20 ms    15 ms  tcore3-toronto12_37.net.bell.ca [64.230.59.198]
+  5     *        *

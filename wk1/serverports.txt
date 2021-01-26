@@ -1,0 +1,8 @@
+1. In computer networking, a port is a communication endpoint. At the software level, within an operating system, a port is a logical construct that identifies a specific process or a type of network service.
+2. A port number is a 16-bit unsigned integer, thus ranging from 0 to 65535. For TCP, port number 0 is reserved and cannot be used, while for UDP, the source port is optional and a value of zero means no port.Registered ports are in the range 1024 to 49151. Dynamic ports are in the range 49152 to 65535. As mentioned, most new port assignments are in the range from 1024 to 49151. Registered port numbers are non–well-known ports that are used by vendors for their own server applications.
+3. 8
+4. SMTP - 25, HTTP - 80, HTTPS - 443,FTP - 20, 21,TELNET - 23,IMAP - 143,RDP - 3389,SSH - 22
+,DNS - 53,DHCP - 67, 68,POP3-110
+
+
+
