@@ -1,0 +1,54 @@
+21:36:41.897097 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31884588:31884944, ack 18361, win 501, length 356
+21:36:41.897202 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31884944:31885148, ack 18361, win 501, length 204
+21:36:41.897301 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31885148:31885352, ack 18361, win 501, length 204
+21:36:41.897405 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31885352:31885556, ack 18361, win 501, length 204
+21:36:41.897515 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31885556:31885760, ack 18361, win 501, length 204
+21:36:41.897612 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31885760:31885964, ack 18361, win 501, length 204
+21:36:41.897715 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31885964:31886168, ack 18361, win 501, length 204
+21:36:41.897826 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31886168:31886372, ack 18361, win 501, length 204
+21:36:41.897932 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31886372:31886576, ack 18361, win 501, length 204
+21:36:41.898031 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31886576:31886780, ack 18361, win 501, length 204
+21:36:41.898135 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31886780:31886984, ack 18361, win 501, length 204
+21:36:41.898231 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31886984:31887188, ack 18361, win 501, length 204
+21:36:41.898332 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31887188:31887392, ack 18361, win 501, length 204
+21:36:41.898433 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31887392:31887596, ack 18361, win 501, length 204
+21:36:41.898535 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31887596:31887800, ack 18361, win 501, length 204
+21:36:41.898568 IP bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623 > 134.122.35.207.ssh: Flags [.], ack 31861288, win 516, length 0
+21:36:41.898689 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31887800:31888156, ack 18361, win 501, length 356
+21:36:41.898802 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31888156:31888360, ack 18361, win 501, length 204
+21:36:41.898912 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31888360:31888564, ack 18361, win 501, length 204
+21:36:41.899020 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31888564:31888768, ack 18361, win 501, length 204
+21:36:41.899132 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31888768:31888972, ack 18361, win 501, length 204
+21:36:41.899238 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31888972:31889176, ack 18361, win 501, length 204
+21:36:41.899338 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31889176:31889380, ack 18361, win 501, length 204
+21:36:41.899445 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31889380:31889584, ack 18361, win 501, length 204
+21:36:41.899551 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31889584:31889788, ack 18361, win 501, length 204
+21:36:41.899651 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31889788:31889992, ack 18361, win 501, length 204
+21:36:41.899750 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31889992:31890196, ack 18361, win 501, length 204
+21:36:41.899851 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31890196:31890400, ack 18361, win 501, length 204
+21:36:41.899987 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31890400:31890604, ack 18361, win 501, length 204
+21:36:41.900092 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31890604:31890808, ack 18361, win 501, length 204
+21:36:41.900194 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31890808:31891012, ack 18361, win 501, length 204
+21:36:41.900295 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31891012:31891216, ack 18361, win 501, length 204
+21:36:41.900399 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31891216:31891420, ack 18361, win 501, length 204
+21:36:41.900501 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31891420:31891624, ack 18361, win 501, length 204
+21:36:41.900602 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31891624:31891828, ack 18361, win 501, length 204
+21:36:41.900710 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31891828:31892032, ack 18361, win 501, length 204
+21:36:41.900803 IP bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623 > 134.122.35.207.ssh: Flags [.], ack 31864296, win 516, length 0
+21:36:41.900892 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31892032:31892388, ack 18361, win 501, length 356
+21:36:41.900993 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31892388:31892592, ack 18361, win 501, length 204
+21:36:41.901106 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31892592:31892796, ack 18361, win 501, length 204
+21:36:41.901203 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31892796:31893000, ack 18361, win 501, length 204
+21:36:41.901310 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31893000:31893204, ack 18361, win 501, length 204
+21:36:41.901413 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31893204:31893408, ack 18361, win 501, length 204
+21:36:41.901518 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31893408:31893612, ack 18361, win 501, length 204
+21:36:41.901626 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31893612:31893816, ack 18361, win 501, length 204
+21:36:41.901729 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31893816:31894020, ack 18361, win 501, length 204
+21:36:41.901837 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31894020:31894224, ack 18361, win 501, length 204
+21:36:41.901943 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31894224:31894428, ack 18361, win 501, length 204
+21:36:41.902049 IP bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623 > 134.122.35.207.ssh: Flags [P.], seq 18361:18397, ack 31864296, win 516, length 36
+21:36:41.902133 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 31894428:31894632, ack 18397, win 501, length 204
+^C
+159379 packets captured
+159380 packets received by filter
+0 packets dropped by kernel

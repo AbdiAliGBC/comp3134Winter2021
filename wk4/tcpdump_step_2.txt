@@ -1,0 +1,10 @@
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+21:37:21.096212 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 2144113584:2144113692, ack 3878040694, win 501, length 108
+21:37:21.096303 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 108:144, ack 1, win 501, length 36
+21:37:21.096383 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 144:252, ack 1, win 501, length 108
+21:37:21.096447 IP 134.122.35.207.ssh > bras-base-toroon2634w-grc-08-64-231-199-91.dsl.bell.ca.59623: Flags [P.], seq 252:288, ack 1, win 501, length 36
+21:37:21.096988 IP 134.122.35.207.39620 > dns.google.domain: 26343+ PTR? 91.199.231.64.in-addr.arpa. (44)
+5 packets captured
+22 packets received by filter
+0 packets dropped by kernel
